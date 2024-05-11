@@ -8,7 +8,7 @@ package ch04.sec02;
 
 public class IfExample {
 	public static void main(String[] args) {
-		int score = 5;
+		int score = 75;
 		
 		if(score >= 90) {
 			System.out.println("점수가 90~100점 입니다.");
